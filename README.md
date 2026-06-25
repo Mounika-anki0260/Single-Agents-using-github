@@ -107,9 +107,9 @@ Both projects will be loaded. Now first run the Turkish Airlines project, then t
 
 
 ## Author
-You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=linkedin&longCache=true&style=social&label=Follow)](https://www.linkedin.com/in/harismuneer)
+You can get in touch with me on my LinkedIn Profile: [![LinkedIn Link](https://www.linkedin.com/in/mounika-ankireddypalli/)
 
-You can also follow my GitHub Profile to stay updated about my latest projects: [![GitHub Follow](https://img.shields.io/badge/Connect-harismuneer-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/harismuneer)
+You can also follow my GitHub Profile to stay updated about my latest projects: [(https://github.com/harismuneer](https://github.com/Mounika-anki0260))
 
 If you liked the repo then kindly support it by giving it a star ⭐ and share in your circles so more people can benefit from the effort.
 
